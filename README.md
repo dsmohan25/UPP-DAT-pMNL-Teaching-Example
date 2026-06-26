@@ -18,7 +18,10 @@ Preference Coefficients
 Relative Importance Scores
     ↓
 Patient-Friendly Report
-What the Script Does
+
+Choice tasks:
+
+The UPP choice task participant handout contains the 12 choice tasks. 
 
 The R script:
 
